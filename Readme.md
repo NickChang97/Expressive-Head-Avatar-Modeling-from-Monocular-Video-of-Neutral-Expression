@@ -1,9 +1,9 @@
-# ViVFace
+# 
 Codes for Expressive-Head-Avatar-Modeling-from-Monocular-Video-of-Neutral-Expression
 
 Project Page 
 
-ViVFace is accepted by TVCG
+Accepted by TVCG
 
 
 ## TODO
