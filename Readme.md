@@ -1,7 +1,7 @@
 # 
 Codes for Expressive-Head-Avatar-Modeling-from-Monocular-Video-of-Neutral-Expression
 
-Project Page https://nickchang97.github.io/Expressive-Head-Avatar-Modeling-from-Monocular-Video-of-Neutral-Expression.github.io/
+[Project Page](https://nickchang97.github.io/Expressive-Head-Avatar-Modeling-from-Monocular-Video-of-Neutral-Expression.github.io/) 
 
 Accepted by TVCG
 
